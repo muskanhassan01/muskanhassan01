@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muskan HAssan, a passionate learner to improve my skills 
-- 👀 I’m interested in  progeramming , web development, data science, developing my skills😊
-- 🌱 I’m currently learning  programming language, technology and building personal projects.
+- 👀 I’m interested in  progeramming , web development, ai amd machine learning, developing my skills😊
+- 🌱 I’m currently learning  programming language like c, python, java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... muskanhassan01
 - My Email _ hmuskan877@gmail.com
