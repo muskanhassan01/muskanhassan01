@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muskan HAssan, a passionate learner to improve my skills 
-- 👀 I’m interested in  programming , web development, ai amd machine learning, developing my skills😊
+- 👀 I’m interested in  programming , Data Science, Data Analyst,  ai amd machine learning, developing my skills😊
 - 🌱 I’m currently learning  programming language like c, python, java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
